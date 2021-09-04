@@ -111,3 +111,4 @@ ENV/
 
 # VS Code workspace
 *.code-workspace
+python-contact-book/source_code_final/contacts.sqlite
